@@ -43,8 +43,6 @@ public class CountingSorting {
         System.arraycopy(aux, 0, array, 0, array.length);
     }
 
-
-
     public static void test() {
         int [][] matrix = {
              {10,5,5,4,2,1,3,10}
